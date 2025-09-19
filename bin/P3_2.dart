@@ -6,5 +6,5 @@ while (counter < 33){
 }do{
   print(counter);
   counter++;
-}while (counter < 77);
+}while (counter < 77); 
 }
