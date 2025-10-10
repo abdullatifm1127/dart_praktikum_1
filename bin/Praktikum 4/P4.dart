@@ -22,4 +22,8 @@ print(nav);
 var promoActive1 = false;
   var nav1 = ['Home', 'Furniture', 'Plants', if (promoActive1) 'Outlet'];
   print(nav1);
+
+var login = 'Manager';
+var nav2 = ['Home', 'Furniture', 'Plants', if (login == 'Manager') 'Iventory'];
+  print(nav2);
 }
